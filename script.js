@@ -59,7 +59,7 @@ let card = `
 </div>
 
 <div class="right">
-<img src="images/vijay.png" class="vijay">
+<img src="vijay.png" class="vijay">
 </div>
 
 </div>
